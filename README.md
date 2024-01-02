@@ -22,3 +22,11 @@ HTML PAGE STRUCTURE
 * `<body>` The body tag is used to enclose all the visible content of a webpage. In other words, the body content is what the browser will show on the front-end.
 
 An HTML document can be created using any text editor. Save the text file using `.html` or `.htm`. Once saved as an HTML document, the file can be opened as a webpage in the browser.
+<br><br>
+<b>Day 2/100</b><br>
+<b>HTML5 </b><br>
+HTML 5 is the fifth and current version of HTML. It has improved the markup available for documents and has introduced application programming interfaces(API) and Document Object Model(DOM).
+
+HTML5 Semantics
+Semantic Elements: Semantic elements have meaningful names which tell about the type of content. For example article, aside
+,details, figcaption, figure, footer, header, main, mark, nav
