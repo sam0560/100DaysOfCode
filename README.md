@@ -30,3 +30,31 @@ HTML 5 is the fifth and current version of HTML. It has improved the markup avai
 HTML5 Semantics
 Semantic Elements: Semantic elements have meaningful names which tell about the type of content. For example article, aside
 ,details, figcaption, figure, footer, header, main, mark, nav
+
+<b>Day 3/100</b><br>
+<b>HTML Elements </b><br>
+<b>HTML heading tag</b><br>
+The HTML heading tag is used to define the headings of a page. There are six levels of headings defined by HTML. These 6 heading elements are h1, h2, h3, h4, h5, and h6; with h1 being the highest level and h6 being the least.
+
+`<!-- Heading -->
+    <h1>This is Heading 1</h1>
+    <h2>This is Heading 2</h2>
+    <h3>This is Heading 3</h3>
+    <h4>This is Heading 4</h4>
+    <h5>This is Heading 5</h5>
+    <h6>This is Heading 6</h6>
+`<br>![Screenshot_01](https://github.com/sam0560/100DaysOfCode/assets/64938042/891d0f54-ad90-48e4-ac65-7a750ac8988e)
+<br>
+<b>HTML Paragraphs</b><br>
+The `<p>` tag in HTML defines a paragraph. These have both opening and closing tags. So anything mentioned within `<p>` and `</p>` is treated as a paragraph.
+<br>
+<b>HTML Style Tag</b><br>
+it is used to declare inline styling for HTML elements
+`<tagname style="property:value;">`
+<br>
+<b>HTML `<hr>` Tag</b><br>
+Use for inserting horizontal rule into document. <br>
+<br>
+<b>HTML `<br>` Tag</b><br>
+Use for inserting break after a tag. <br>
+The browser does not recognize new lines and paragraph formatting in the text. If you want to start a new line, you need to insert a line break with the help of the <be>.
