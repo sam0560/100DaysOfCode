@@ -57,4 +57,22 @@ Use for inserting horizontal rule into document. <br>
 <br>
 <b>HTML `<br>` Tag</b><br>
 Use for inserting break after a tag. <br>
-The browser does not recognize new lines and paragraph formatting in the text. If you want to start a new line, you need to insert a line break with the help of the <be>.
+The browser does not recognize new lines and paragraph formatting in the text. If you want to start a new line, you need to insert a line break with the help of the <br>.<br><br>
+
+<b>Day 4/100</b><br>
+<b>HTML Attribute </b><br>
+<b>`class Attribute`</b><br>
+The class is an attribute that specifies one or more class names for an HTML element.
+The class attribute can be used on any HTML element.
+The class name can be used by CSS and JavaScript to perform certain tasks for elements with the specified class name.<br>
+
+<b>`id Attribute`</b><br>
+The id attribute is a unique identifier that is used to specify the document. It is used by CSS and JavaScript to perform a certain task for a unique element.<br>
+<b>Syntax:</b>
+ `<tag id=""></tag>`<br>
+Read on other attributes like;<br>
+- HTML ondragend Event attribute<br>
+- HTML dropzone attribute<br>
+- HTML ondrag attribute<br>
+- HTML ontoggle attribute<br>
+
