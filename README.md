@@ -76,3 +76,7 @@ Read on other attributes like;<br>
 - HTML ondrag attribute<br>
 - HTML ontoggle attribute<br>
 
+<b>Day 5/100</b><br>
+<b>Ecommerce with MERN stack</b><br>
+I created data seeder for my harder coded products in my products.json file<br><br>
+![Screenshot (117)](https://github.com/sam0560/100DaysOfCode/assets/64938042/663e85b9-38e3-4ce4-b0e5-b1d32b1b8876)
