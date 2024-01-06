@@ -1,4 +1,4 @@
-<b>100 DaysOfCoding</b><br>
+# 100 DaysOfCoding
 <b>Day 1/100</b><br>
 <b>HTML Introduction</b><br>
 HTML stands for HyperText Markup Language. It is used to design web pages using a markup language.
@@ -80,3 +80,13 @@ Read on other attributes like;<br>
 <b>Ecommerce with MERN stack</b><br>
 I created data seeder for my harder coded products in my products.json file<br><br>
 ![Screenshot (117)](https://github.com/sam0560/100DaysOfCode/assets/64938042/663e85b9-38e3-4ce4-b0e5-b1d32b1b8876)
+
+<br><b>Day 6/100</b><br>
+<b>Updating Portfolio</b><br>
+I worked on updating my porfolio website<br>
+- Added my recent projects
+- modified my resume
+- Fixed screen responsiveness
+
+https://github.com/sam0560/100DaysOfCode/assets/64938042/32ad76e0-d6fa-4f04-9bbb-771a16b4ddf3
+
