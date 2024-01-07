@@ -89,4 +89,12 @@ I worked on updating my porfolio website<br>
 - Fixed screen responsiveness
 
 https://github.com/sam0560/100DaysOfCode/assets/64938042/32ad76e0-d6fa-4f04-9bbb-771a16b4ddf3
+<br>
+<br><b>Day 7/100</b><br>
+<b>Introduction to Javascript</b><br>
+I read more on introduction to javascript, and I covered <br>
+- What is JavaScript?
+- History of Java Script
+- JavaScript versions
+- How to run JavaScript
 
