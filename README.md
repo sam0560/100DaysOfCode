@@ -88,7 +88,6 @@ I worked on updating my porfolio website<br>
 - modified my resume
 - Fixed screen responsiveness
 
-https://github.com/sam0560/100DaysOfCode/assets/64938042/32ad76e0-d6fa-4f04-9bbb-771a16b4ddf3
 <br>
 <br><b>Day 7/100</b><br>
 <b>Introduction to Javascript</b><br>
@@ -97,4 +96,22 @@ I read more on introduction to javascript, and I covered <br>
 - History of Java Script
 - JavaScript versions
 - How to run JavaScript
+<br>
 
+<br><b>Day 8/100</b><br>
+<b>Variable declaration</b><br>
+
+In JavaScript, variable declaration is the process of defining a variable and allocating memory to store its value. You can think of a variable as a box or container that holds a value. To use variables in JavaScript, we first need to create it i.e. declare a variable. To declare variables, we use one of the var, let, or const keywords.<br>
+
+Declaring variable using;<br>
+var - The var statement declares a function-scoped or globally-scoped variable, optionally initializing it to a value.<br>
+ ![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/1dee6920-44c7-48c8-8011-6d0f3a22966c) <br>
+
+let - The let declaration declares a block-scoped local variable, optionally initializing it to a value.<br>
+ ![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/75b9ce53-fa7c-4db8-b608-abc626b22419) <br>
+
+The error below occurs when overriding a block-scoped local variable using `let` <br>
+ ![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/5c573c81-d2b7-41c5-8f62-4b83d1c3d0b2) <br>
+
+const - Constants are block-scoped, much like variables declared using the let keyword. The value of a constant can’t be changed through reassignment (i.e. by using the assignment operator), and it can’t be redeclared (i.e. through a variable declaration). However, if a constant is an object or array its properties or items can be updated or removed.<br>
+![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/fd5d7305-6528-4c49-a18c-a361d93aad7c)
