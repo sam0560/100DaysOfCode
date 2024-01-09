@@ -115,3 +115,20 @@ The error below occurs when overriding a block-scoped local variable using `let`
 
 const - Constants are block-scoped, much like variables declared using the let keyword. The value of a constant can’t be changed through reassignment (i.e. by using the assignment operator), and it can’t be redeclared (i.e. through a variable declaration). However, if a constant is an object or array its properties or items can be updated or removed.<br>
 ![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/fd5d7305-6528-4c49-a18c-a361d93aad7c)
+<br>
+
+
+<br><b>Day 9/100</b><br>
+<b>Javascript Hoisting</b><br>
+JavaScript hoisting is a behavior where variable and function declarations are moved to the top of their containing scope during the compilation phase, before the code is executed. This means that you can use variables and functions in your code before they are declared.<br>
+
+![hoisting2](https://github.com/sam0560/100DaysOfCode/assets/64938042/4b87f1a3-ad8c-4192-bb33-1be4736f1413)
+![hoisting1](https://github.com/sam0560/100DaysOfCode/assets/64938042/0fbec366-4fa3-4fdb-ba64-4f9705f6055f)
+
+
+<b>Variable naming rules<b><br>
+rules in naming of variables;<br>
+1.	Be descriptive<br>
+2.	Don't be overly descriptive<br>
+3.	Abbreviate long words<br>
+4.	Use a casing convention to break words<br>
