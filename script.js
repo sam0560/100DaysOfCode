@@ -30,3 +30,46 @@ sayHello(); // Outputs: "Hello, World!"
 function sayHello() {
   console.log("Hello, World!");
 }
+
+// Data type
+// string
+const str = "This is a string";
+
+// number
+const num = 10;
+
+// bigint
+const bigInt = 10n;
+
+// boolean
+const isSuccess = true;
+
+// undefined
+const un = undefined;
+
+// Symbol
+const sym = Symbol("my symbol")
+
+// null
+const isNull = null;
+
+// Non-primitive
+// object
+const obj = {
+  key: 'value',
+  name: 'kaysam_dev',
+  year: 10
+}
+
+// Arrays
+let fruits = ["apple", "banana", "orange"];
+
+// function
+function greet(name) {
+  return "Hello, " + name + "!";
+}
+
+// Other Built in objects
+let currentDate = new Date();
+let regexPattern = /[a-z]+/;
+let myMap = new Map();
