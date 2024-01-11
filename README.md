@@ -132,3 +132,20 @@ rules in naming of variables;<br>
 2.	Don't be overly descriptive<br>
 3.	Abbreviate long words<br>
 4.	Use a casing convention to break words<br>
+
+<br><b>Day 10-11/100</b><br>
+<b>Data Type</b></br><br>
+<i>Primitive data type</i><br>
+Number<br>
+BigInt<br>
+String<br>
+Boolean<br>
+Null<br>
+Undefined<br>
+Symbol<br><br>
+<i>-Non-primitivive data type</i><br>
+Object<br>
+Array<br>
+function<br>
+Built-in Objects
+
