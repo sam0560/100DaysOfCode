@@ -149,3 +149,9 @@ Array<br>
 function<br>
 Built-in Objects
 
+<br><b>Day 12/100</b><br>
+<b>Ecommerce with MERN stack</b></br>
+- Creating Error Handlers<br>
+- Creating Error middleware<br>
+- Setting production error and development error<br><br>
+![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/34d89d6b-e8e9-478a-89f5-0cf1714a5bc4)
