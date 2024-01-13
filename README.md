@@ -155,3 +155,13 @@ Built-in Objects
 - Creating Error middleware<br>
 - Setting production error and development error<br><br>
 ![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/34d89d6b-e8e9-478a-89f5-0cf1714a5bc4)
+
+<br><b>Day 13/100</b><br>
+<b>Ecommerce with MERN stack</b></br>
+Learn more on <br>
+- Node.js Error-handling<br>
+- Error types<br>
+   - Operational errors<br>
+   - Programmer errors<br>
+
+source: https://www.toptal.com/nodejs/node-js-error-handling
