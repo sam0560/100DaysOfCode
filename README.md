@@ -165,3 +165,8 @@ Learn more on <br>
    - Programmer errors<br>
 
 source: https://www.toptal.com/nodejs/node-js-error-handling
+
+<br>
+<b>Day 14/100</b><br>
+Work on implementing figma ui into frontend using html,css,js
+
