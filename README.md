@@ -172,7 +172,7 @@ Work on implementing figma ui into frontend using html,css,js
 
 <br><br>
 <b>Day 15/100</b><br>
-Developing of the section to list Plants using CSS grid for a better layout.<br><br>
+Developed the section to list Plants using CSS grid for a better layout.<br><br>
 ![Screenshot_1](https://github.com/sam0560/100DaysOfCode/assets/64938042/a0dcd8af-5f9b-4030-a348-adeed6fcf38f)<br><br>
 ![mobile](https://github.com/sam0560/100DaysOfCode/assets/64938042/b4eac155-02af-4967-833c-97d86565e423)
 ![mobile (1)](https://github.com/sam0560/100DaysOfCode/assets/64938042/e85c73f3-2b58-4283-8aae-5642b1509d4e)
