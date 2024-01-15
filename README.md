@@ -126,7 +126,7 @@ JavaScript hoisting is a behavior where variable and function declarations are m
 ![hoisting1](https://github.com/sam0560/100DaysOfCode/assets/64938042/0fbec366-4fa3-4fdb-ba64-4f9705f6055f)
 
 
-<b>Variable naming rules<b><br>
+<b>Variable naming rules</b><br>
 rules in naming of variables;<br>
 1.	Be descriptive<br>
 2.	Don't be overly descriptive<br>
@@ -169,4 +169,13 @@ source: https://www.toptal.com/nodejs/node-js-error-handling
 <br>
 <b>Day 14/100</b><br>
 Work on implementing figma ui into frontend using html,css,js
+
+<br><br>
+<b>Day 15/100</b><br>
+Developing of the section to list Plants using CSS grid for a better layout.<br><br>
+![Screenshot_1](https://github.com/sam0560/100DaysOfCode/assets/64938042/a0dcd8af-5f9b-4030-a348-adeed6fcf38f)<br><br>
+![mobile](https://github.com/sam0560/100DaysOfCode/assets/64938042/b4eac155-02af-4967-833c-97d86565e423)
+![mobile (1)](https://github.com/sam0560/100DaysOfCode/assets/64938042/e85c73f3-2b58-4283-8aae-5642b1509d4e)
+
+
 
