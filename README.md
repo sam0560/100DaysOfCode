@@ -177,5 +177,19 @@ Developed the section to list Plants using CSS grid for a better layout.<br><br>
 ![mobile](https://github.com/sam0560/100DaysOfCode/assets/64938042/b4eac155-02af-4967-833c-97d86565e423)
 ![mobile (1)](https://github.com/sam0560/100DaysOfCode/assets/64938042/e85c73f3-2b58-4283-8aae-5642b1509d4e)
 
-
-
+<br><br>
+<b>Day 16/100</b><br>
+Learnt and practiced Linux syntax & functionalities<br>
+- Managing packages using apt<br>
+- file system navigation<br>
+- directories and file handling<br>
+     - creating file / directory<br>
+     - copying file/directory<br>
+     - deleting directory<br>
+ 
+Also added few touches on my plant ecomerce project.<br>
+Created an array for the plants an dynamically loop through it<br>
+<br>
+![Screenshot_3](https://github.com/sam0560/100DaysOfCode/assets/64938042/fdbe9de5-ce72-47b1-ab58-d0521ee0349a)
+<br>
+![Screenshot_4](https://github.com/sam0560/100DaysOfCode/assets/64938042/d2821acc-2194-4641-8ee0-7552c2a170bd)
