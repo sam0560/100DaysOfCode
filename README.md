@@ -193,3 +193,15 @@ Created an array for the plants an dynamically loop through it<br>
 ![Screenshot_3](https://github.com/sam0560/100DaysOfCode/assets/64938042/fdbe9de5-ce72-47b1-ab58-d0521ee0349a)
 <br>
 ![Screenshot_4](https://github.com/sam0560/100DaysOfCode/assets/64938042/d2821acc-2194-4641-8ee0-7552c2a170bd)
+
+<br><br>
+<b>Day 17-18/100</b><br>
+<b>JavaScript Type Casting</b><br>
+- Implicit Conversion<br>
+    Certainly! Implicit type conversions, also known as type coercion, occur when JavaScript runtime automatically converts one type of data to another.<br><br>
+
+- Explicit Conversion
+    Explicit type conversion, or type casting, occurs when you manually convert a value from one type to another. In JavaScript, you can use functions or operators to explicitly convert values between different types.
+  ![implicit_convesion](https://github.com/sam0560/100DaysOfCode/assets/64938042/d43a6c32-cbe3-495b-b028-3d590b7a60c1)
+  <br><br>
+![explicit_convesion](https://github.com/sam0560/100DaysOfCode/assets/64938042/d52db7ff-eb57-4325-914c-7c26a9f1425a)
