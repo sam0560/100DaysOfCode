@@ -205,3 +205,13 @@ Created an array for the plants an dynamically loop through it<br>
   ![implicit_convesion](https://github.com/sam0560/100DaysOfCode/assets/64938042/d43a6c32-cbe3-495b-b028-3d590b7a60c1)
   <br><br>
 ![explicit_convesion](https://github.com/sam0560/100DaysOfCode/assets/64938042/d52db7ff-eb57-4325-914c-7c26a9f1425a)
+
+<br><br>
+<b>Day 19-20/100</b><br>
+<b>Ecommerce with MERN stack</b><br>
+
+I made another improvement on my web application, writing code to solve this necessary errors.
+<br>
+- Catch async errors<br>
+- Handling unhandle Promise rejection<br>
+- Handling uncaught exception<br><br>
