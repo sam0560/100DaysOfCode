@@ -134,4 +134,4 @@ null == undefined;  // true (null and undefined are considered equal)
 // Strict equality
 5 === "5";      // false (number 5 is not equal to string "5")
 true === 1;     // false (boolean true is not equal to number 1)
-null === undefined;  // false (strict equality distinguishes null and undefined)
+null === undefined;  // false (strict equality distinguishes null and undefined).
