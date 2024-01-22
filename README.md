@@ -215,3 +215,10 @@ I made another improvement on my web application, writing code to solve this nec
 - Catch async errors<br>
 - Handling unhandle Promise rejection<br>
 - Handling uncaught exception<br><br>
+
+<br>
+<b>Day 21-20/100</b><br>
+<b>Javascript Equality Comparison</b><br>
+Comparison operators are used in logical statements to determine equality or difference between variables or values. Comparison operators can be used in conditional statements to compare values and take action depending on the result.<br>
+In JavaScript, there are two main ways to perform equality comparisons: loose equality (==) and strict equality (===). It's important to understand the differences between them.
+
