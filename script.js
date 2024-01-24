@@ -135,3 +135,51 @@ null == undefined;  // true (null and undefined are considered equal)
 5 === "5";      // false (number 5 is not equal to string "5")
 true === 1;     // false (boolean true is not equal to number 1)
 null === undefined;  // false (strict equality distinguishes null and undefined).
+
+
+// Loops
+// For..in
+// const numObj = {a:1, b:3, c:5, d:2};
+
+// for(num in numObj){
+  // console.log(num,":", numObj[num])
+  // Expected output:
+// "a: 1"
+// "b: 3"
+// "c: 5"
+// "d: 2"
+// }
+
+// for...of
+
+// for(const num of numObj){
+//   console.log("num: ", num);
+// }
+
+// Output
+// num:  3
+// num:  5
+// num:  2
+
+const numObj = [1, 3, 5, 2];
+
+for (let index = 0; index < numObj.length; index++) {
+  const element = numObj[index];
+  console.log(element);
+}
+
+// while loop
+// let i = 0;
+// while (i < 5) {
+//   console.log(i);
+//   i++;
+// }
+// output: 0 1 2 3 4
+
+// do...while
+let i = 0;
+do {
+  console.log(i);
+  i++;
+} while (i < 5);
+// output: 0 1 2 3 4
