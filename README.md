@@ -217,8 +217,17 @@ I made another improvement on my web application, writing code to solve this nec
 - Handling uncaught exception<br><br>
 
 <br>
-<b>Day 21-20/100</b><br>
+<b>Day 21-22/100</b><br>
 <b>Javascript Equality Comparison</b><br>
 Comparison operators are used in logical statements to determine equality or difference between variables or values. Comparison operators can be used in conditional statements to compare values and take action depending on the result.<br>
 In JavaScript, there are two main ways to perform equality comparisons: loose equality (==) and strict equality (===). It's important to understand the differences between them.
 
+<br>
+<br>
+<b>Day 23-24/100</b><br>
+<b>JavaScript Loops and Iteration</b><br>
+- for loop <br>
+- while loop <br>
+- do...while loop <br>
+- for...in loop <br>
+- for...of loop <br><br>
