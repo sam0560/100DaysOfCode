@@ -238,3 +238,11 @@ In JavaScript, there are two main ways to perform equality comparisons: loose eq
 Error Handling <br>
 - Mongoose validation error <br>
 - Mongoose ID error
+
+<br><br>
+<b>Day 27/100</b><br>
+<b>Ecommerce with MERN stack</b><br>
+Build Search Functionality for my MERN stack project <br>
+![Screenshot_5](https://github.com/sam0560/100DaysOfCode/assets/64938042/8ce716a1-8da2-47ba-8582-0ee9b42ab98b)
+![Screenshot_4](https://github.com/sam0560/100DaysOfCode/assets/64938042/1265466d-e777-48ec-a968-bb3bcd8dbb0f)
+
