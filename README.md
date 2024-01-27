@@ -231,3 +231,10 @@ In JavaScript, there are two main ways to perform equality comparisons: loose eq
 - do...while loop <br>
 - for...in loop <br>
 - for...of loop <br><br>
+
+
+<b>Day 25-26/100</b><br>
+<b>Ecommerce with MERN stack</b><br>
+Error Handling <br>
+- Mongoose validation error <br>
+- Mongoose ID error
