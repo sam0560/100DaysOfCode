@@ -183,3 +183,20 @@ do {
   i++;
 } while (i < 5);
 // output: 0 1 2 3 4
+
+
+// if...else
+if (condition) {
+  // code to execute if condition is true
+} else {
+  // code to execute if condition is false
+}
+
+// else...if
+if (condition1) {
+  // code to execute if condition1 is true
+} else if (condition2) {
+  // code to execute if condition2 is true
+} else {
+  // code to execute if none of the conditions are true
+}
