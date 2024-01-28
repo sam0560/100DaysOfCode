@@ -246,3 +246,14 @@ Build Search Functionality for my MERN stack project <br>
 ![Screenshot_5](https://github.com/sam0560/100DaysOfCode/assets/64938042/8ce716a1-8da2-47ba-8582-0ee9b42ab98b)
 ![Screenshot_4](https://github.com/sam0560/100DaysOfCode/assets/64938042/1265466d-e777-48ec-a968-bb3bcd8dbb0f)
 
+<br><br>
+<b>Day 28/100</b><br>
+<b>Control Flow</b><br>
+Condtional Statement<br>
+- if...else<br>
+![ifelse](https://github.com/sam0560/100DaysOfCode/assets/64938042/6df6ea14-3a96-4345-b5ca-a350b54b4d04)
+
+<br><br>
+- else...if<br>
+  ![elseif](https://github.com/sam0560/100DaysOfCode/assets/64938042/c95c4504-80ac-463a-acf5-528907d05091)
+
