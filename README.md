@@ -257,3 +257,9 @@ Condtional Statement<br>
 - else...if<br>
   ![elseif](https://github.com/sam0560/100DaysOfCode/assets/64938042/c95c4504-80ac-463a-acf5-528907d05091)
 
+<br><br>
+<b>Day 28/100</b><br>
+<b>Control Flow</b><br>
+Switch Case<br>
+The switch statement evaluates an expression, matches it against case clauses, and executes statements after the first matching case. It continues execution until a break statement is encountered. If no case matches, it jumps to the `default` clause.<br>
+![switchCase](https://github.com/sam0560/100DaysOfCode/assets/64938042/70d16b95-a24a-4089-8752-521f0fec59ae)
