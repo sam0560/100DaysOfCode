@@ -184,6 +184,9 @@ do {
 } while (i < 5);
 // output: 0 1 2 3 4
 
+const now = new Date();
+console.log("Date ", now.getD());
+
 
 // if...else
 if (condition) {
@@ -199,4 +202,21 @@ if (condition1) {
   // code to execute if condition2 is true
 } else {
   // code to execute if none of the conditions are true
+}
+
+
+// Switch Case
+switch (expression) {
+  case value1:
+    //Statements executed when the result of expression matches value1
+    break;
+  case value2:
+    //Statements executed when the result of expression matches value2
+    break;
+  case value3:
+    //Statements executed when the result of expression matches value3
+    break;
+  default:
+    //Statements executed when none of the values match the value of the expression
+    break;
 }
