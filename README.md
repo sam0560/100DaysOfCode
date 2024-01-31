@@ -1,4 +1,5 @@
 # 100 DaysOfCoding
+
 <b>Day 1/100</b><br>
 <b>HTML Introduction</b><br>
 HTML stands for HyperText Markup Language. It is used to design web pages using a markup language.
