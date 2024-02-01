@@ -264,3 +264,14 @@ Condtional Statement<br>
 Switch Case<br>
 The `switch` statement evaluates an expression, matches it against case clauses, and executes statements after the first matching case. It continues execution until a `break` statement is encountered. If no case matches, it jumps to the `default` clause.<br>
 ![switchCase](https://github.com/sam0560/100DaysOfCode/assets/64938042/70d16b95-a24a-4089-8752-521f0fec59ae)
+
+
+<br><br>
+<b>Day 30-32/100</b><br>
+<b>Expression & Operators</b><br>
+Expressions are building blocks that produce values, and operators are symbols that perform operations on these values. They form the foundation for JavaScript's ability to perform calculations, comparisons, and other actions in a program.<br>
+
+Eg. of Operators<br>
+- Assigment operator<br>
+- Comparison operator<br>
+- Aritmetric operator<br>
