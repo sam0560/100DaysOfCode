@@ -275,3 +275,14 @@ Eg. of Operators<br>
 - Assigment operator<br>
 - Comparison operator<br>
 - Aritmetric operator<br>
+
+<br><br>
+<b>Day 33-35/100</b><br>
+- Continued to make updates for my plant ecommerce platform <br>
+- Built an email template<br>
+
+https://github.com/sam0560/100DaysOfCode/assets/64938042/bd3f0622-253b-427e-873d-a93c5f4ab788
+
+
+
+
