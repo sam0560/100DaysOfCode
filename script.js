@@ -185,38 +185,96 @@ do {
 // output: 0 1 2 3 4
 
 const now = new Date();
-console.log("Date ", now.getD());
+// console.log("Date ", now.getD());
 
 
-// if...else
-if (condition) {
-  // code to execute if condition is true
-} else {
-  // code to execute if condition is false
+///////////////////////////////////// if...else
+// if (condition) {
+//   // code to execute if condition is true
+// } else {
+//   // code to execute if condition is false
+// }
+
+// // else...if
+// if (condition1) {
+//   // code to execute if condition1 is true
+// } else if (condition2) {
+//   // code to execute if condition2 is true
+// } else {
+//   // code to execute if none of the conditions are true
+// }
+
+
+///////////////////////////////////////// Switch Case
+// switch (expression) {
+//   case value1:
+//     //Statements executed when the result of expression matches value1
+//     break;
+//   case value2:
+//     //Statements executed when the result of expression matches value2
+//     break;
+//   case value3:
+//     //Statements executed when the result of expression matches value3
+//     break;
+//   default:
+//     //Statements executed when none of the values match the value of the expression
+//     break;
+// }
+
+
+// Assignment operators
+const key1 = {};
+
+key1.x = 3;
+console.log(key1.x); // Outputs: 3.
+console.log(key1); // Outputs: { x: 3 }.
+
+const key2 = "y";
+key1[key2] = 5;
+console.log(key1[key2]); // Outputs: 5.
+console.log(key1); // Outputs: { x: 3, y: 5 }.
+
+
+// comparison operators
+// let var1 = 3;
+// let var2 = 4;
+
+// console.log(var1 == var2); // Outputs: false
+// console.log(var1 != var2); // Outputs: true
+// console.log(var1 === var2); // Outputs: false
+// console.log(var1 !== var2); // Outputs: true
+// console.log(var1 > var2); // Outputs: false
+// console.log(var1 < var2); // Outputs: true
+// console.log(var1 >= var2); // Outputs: false
+// console.log(var1 <= var2); // Outputs: true
+
+
+// Arithmetric operators
+let var1 = 3;
+let var2 = 4;
+
+console.log(var1 + var2); // Outputs: 7
+console.log(var1 - var2); // Outputs: -1
+console.log(var1 * var2); // Outputs: 12
+console.log(var1 / var2); // Outputs: 0.75
+console.log(var1 % var2); // Outputs: 3
+var1++;
+console.log(var1); // Outputs: 4
+var2--;
+console.log(var2); // Outputs: 3
+
+
+// function declaration
+function square(number) {
+  return number * number;
 }
 
-// else...if
-if (condition1) {
-  // code to execute if condition1 is true
-} else if (condition2) {
-  // code to execute if condition2 is true
-} else {
-  // code to execute if none of the conditions are true
-}
+square(5);
 
+const sum = function(x, y) {
+  return x + y;
+};
 
-// Switch Case
-switch (expression) {
-  case value1:
-    //Statements executed when the result of expression matches value1
-    break;
-  case value2:
-    //Statements executed when the result of expression matches value2
-    break;
-  case value3:
-    //Statements executed when the result of expression matches value3
-    break;
-  default:
-    //Statements executed when none of the values match the value of the expression
-    break;
-}
+// const sum = (x, y) => {
+//   return x + y;
+// };
