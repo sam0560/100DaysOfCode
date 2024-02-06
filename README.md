@@ -1,4 +1,5 @@
 # 100 DaysOfCoding
+
 <b>Day 1/100</b><br>
 <b>HTML Introduction</b><br>
 HTML stands for HyperText Markup Language. It is used to design web pages using a markup language.
@@ -257,3 +258,44 @@ Condtional Statement<br>
 - else...if<br>
   ![elseif](https://github.com/sam0560/100DaysOfCode/assets/64938042/c95c4504-80ac-463a-acf5-528907d05091)
 
+<br><br>
+<b>Day 29/100</b><br>
+<b>Control Flow</b><br>
+Switch Case<br>
+The `switch` statement evaluates an expression, matches it against case clauses, and executes statements after the first matching case. It continues execution until a `break` statement is encountered. If no case matches, it jumps to the `default` clause.<br>
+![switchCase](https://github.com/sam0560/100DaysOfCode/assets/64938042/70d16b95-a24a-4089-8752-521f0fec59ae)
+
+
+<br><br>
+<b>Day 30-32/100</b><br>
+<b>Expression & Operators</b><br>
+Expressions are building blocks that produce values, and operators are symbols that perform operations on these values. They form the foundation for JavaScript's ability to perform calculations, comparisons, and other actions in a program.<br>
+
+Eg. of Operators<br>
+- Assigment operator<br>
+- Comparison operator<br>
+- Aritmetric operator<br>
+
+<br><br>
+<b>Day 33-35/100</b><br>
+- Continued to make updates for my plant ecommerce platform <br>
+- Built an email template<br>
+
+https://github.com/sam0560/100DaysOfCode/assets/64938042/bd3f0622-253b-427e-873d-a93c5f4ab788
+
+<br><br>
+<b>Day 36-37/100</b><br>
+<b>Javascript Function</b><br>
+- Declaration of function
+    - Tranditional function expression - using function keyword
+    - Arrow function expression
+- Built-in methods
+
+Note: <br>
+When to Use Arrow Functions:<br>
+-	Use arrow functions for short, concise functions, especially when passing them as arguments to other functions (e.g., array methods like map, filter, reduce).
+-	Use arrow functions when you want to retain the lexical scope of this, especially in callback functions within classes or objects.
+
+When to Use Traditional Functions:<br>
+-	Use traditional functions when you need the function to have its own `this` context or when defining object methods.
+-	Use traditional functions when you need the arguments object or plan to use the function as a constructor.
