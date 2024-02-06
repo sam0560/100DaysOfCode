@@ -283,6 +283,19 @@ Eg. of Operators<br>
 
 https://github.com/sam0560/100DaysOfCode/assets/64938042/bd3f0622-253b-427e-873d-a93c5f4ab788
 
+<br><br>
+<b>Day 36-37/100</b><br>
+<b>Javascript Function</b><br>
+- Declaration of function
+    - Tranditional function expression - using function keyword
+    - Arrow function expression
+- Built-in methods
 
+Note: <br>
+When to Use Arrow Functions:<br>
+-	Use arrow functions for short, concise functions, especially when passing them as arguments to other functions (e.g., array methods like map, filter, reduce).
+-	Use arrow functions when you want to retain the lexical scope of this, especially in callback functions within classes or objects.
 
-
+When to Use Traditional Functions:<br>
+-	Use traditional functions when you need the function to have its own `this` context or when defining object methods.
+-	Use traditional functions when you need the arguments object or plan to use the function as a constructor.
