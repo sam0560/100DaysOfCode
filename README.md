@@ -299,3 +299,14 @@ When to Use Arrow Functions:<br>
 When to Use Traditional Functions:<br>
 -	Use traditional functions when you need the function to have its own `this` context or when defining object methods.
 -	Use traditional functions when you need the arguments object or plan to use the function as a constructor.
+
+<b>Day 38-40/100</b><br>
+<b>MERN stack Ecommerce website</b><br>
+It has been a tough week combining dev with work and writing some exams. But in the end, it is a win for the week.
+Added
+- Filter and pagination to my Ecommerce web app
+  ![Screenshot_7](https://github.com/sam0560/100DaysOfCode/assets/64938042/97c7eb6e-3e7c-4acd-96bc-f4cd94590fba)
+![Screenshot_6](https://github.com/sam0560/100DaysOfCode/assets/64938042/b72105ca-1631-44d0-b2ac-92ed88c4a1bb)
+![Screenshot_5](https://github.com/sam0560/100DaysOfCode/assets/64938042/57149d59-732d-4959-8d99-a160f44f5480)
+![Screenshot_4](https://github.com/sam0560/100DaysOfCode/assets/64938042/9be273ff-4c83-4a28-a63b-8fcc45ce9b98)
+
