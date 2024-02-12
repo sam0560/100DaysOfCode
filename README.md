@@ -310,3 +310,12 @@ Added
 ![Screenshot_5](https://github.com/sam0560/100DaysOfCode/assets/64938042/57149d59-732d-4959-8d99-a160f44f5480)
 ![Screenshot_4](https://github.com/sam0560/100DaysOfCode/assets/64938042/9be273ff-4c83-4a28-a63b-8fcc45ce9b98)
 
+<br><br>
+<b>Day 41-43/100</b><br>
+<b>LINUX</b>
+Exploring some linux commands
+- which
+- free
+- top
+- li -r
+- who
