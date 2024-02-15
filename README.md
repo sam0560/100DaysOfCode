@@ -319,3 +319,12 @@ Exploring some linux commands
 - top
 - li -r
 - who
+  
+<br><br>
+<b>Day 44-46/100</b><br>
+Building a project for tech;<br>
+- Blogging <br>
+- News and article <br>
+- posting and watching tech video
+  
+![instatech](https://github.com/sam0560/100DaysOfCode/assets/64938042/87e3e45d-7587-476c-9d8c-0a15525fba23)
