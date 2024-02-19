@@ -328,3 +328,12 @@ Building a project for tech;<br>
 - posting and watching tech video
   
 ![instatech](https://github.com/sam0560/100DaysOfCode/assets/64938042/87e3e45d-7587-476c-9d8c-0a15525fba23)
+
+<br><br>
+<b>Day 46-49/100</b><br>
+Updating my tech website for;<br>
+- Blogging <br>
+- News and article <br>
+- posting and watching tech video<br><br>
+
+using nextjs
