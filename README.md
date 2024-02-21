@@ -337,3 +337,7 @@ Updating my tech website for;<br>
 - posting and watching tech video<br><br>
 
 using nextjs
+
+<br><br>
+<b>Day 50-51/100</b><br>
+Devrloped a transactional email template using html table to support majority of email clients
