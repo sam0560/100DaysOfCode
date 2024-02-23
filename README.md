@@ -341,3 +341,9 @@ using nextjs
 <br><br>
 <b>Day 50-51/100</b><br>
 Devrloped a transactional email template using html table to support majority of email clients
+
+
+<br><br>
+<b>Day 52-53/100</b><br>
+Introduction to Laravel <br>
+picking up from where I stopped in Laravel.
