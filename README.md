@@ -347,3 +347,7 @@ Devrloped a transactional email template using html table to support majority of
 <b>Day 52-53/100</b><br>
 Introduction to Laravel <br>
 picking up from where I stopped in Laravel.
+
+<br><br>
+<b>Day 54-56/100</b><br>
+Building upon my tech content web app<br>
