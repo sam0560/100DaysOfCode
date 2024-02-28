@@ -351,3 +351,9 @@ picking up from where I stopped in Laravel.
 <br><br>
 <b>Day 54-56/100</b><br>
 Building upon my tech content web app<br>
+
+<br>
+<b>Day 57/100</b><br>
+Creating user module in nodejs and installing nodemailer, jwt, and validator<br>
+
+![Screenshot_6](https://github.com/sam0560/100DaysOfCode/assets/64938042/f7d2dc62-fbae-4993-bede-a3476709abc8)
