@@ -357,3 +357,9 @@ Building upon my tech content web app<br>
 Creating user module in nodejs and installing nodemailer, jwt, and validator<br>
 
 ![Screenshot_6](https://github.com/sam0560/100DaysOfCode/assets/64938042/f7d2dc62-fbae-4993-bede-a3476709abc8)
+
+
+<br><br>
+<b>Day 58-60/100</b><br>
+- Fetched news data from News api and query the search with technology keyword<br>
+- Added next configurarion host names to map to allow access to some unknown domains<br>
