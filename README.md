@@ -363,3 +363,9 @@ Creating user module in nodejs and installing nodemailer, jwt, and validator<br>
 <b>Day 58-60/100</b><br>
 - Fetched news data from News api and query the search with technology keyword<br>
 - Added next configurarion host names to map to allow access to some unknown domains<br>
+
+<br><br>
+<b>Day 60-63/100</b><br>
+Applied for entry level or junior frontend roles<br><br>
+
+Hopefully i won't get "unfortunately we will not be moving forward with your application"  😁
