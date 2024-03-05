@@ -369,3 +369,7 @@ Creating user module in nodejs and installing nodemailer, jwt, and validator<br>
 Applied for entry level or junior frontend roles<br><br>
 
 Hopefully i won't get "unfortunately we will not be moving forward with your application"  😁
+
+<br><br>
+<b>Day 64-65/100</b><br>
+Fixed responsive view on my project 
