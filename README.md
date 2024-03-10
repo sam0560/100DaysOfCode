@@ -373,3 +373,10 @@ Hopefully i won't get "unfortunately we will not be moving forward with your app
 <br><br>
 <b>Day 64-65/100</b><br>
 Fixed responsive view on my project 
+
+<br><br>
+<b>Day 66-70/100</b><br>
+Tough week but I managed to put in some extra work.
+
+what I did;
+Fetched news from newsapi, blogs from dev.to & tech videos from YouTube api
