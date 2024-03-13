@@ -380,3 +380,9 @@ Tough week but I managed to put in some extra work.
 
 what I did;
 Fetched news from newsapi, blogs from dev.to & tech videos from YouTube api
+
+<br><br>
+<b>Day 71-73/100</b><br>
+Fixing bugs upon bugs.
+<br>
+The dark mode doesn't look bad at all
