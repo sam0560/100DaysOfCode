@@ -386,3 +386,7 @@ Fetched news from newsapi, blogs from dev.to & tech videos from YouTube api
 Fixing bugs upon bugs.
 <br>
 The dark mode doesn't look bad at all
+
+<br><br>
+<b>Day 74-78/100</b><br>
+Having some terrible network experience over the week but it also has given me some time improve upon my portfolio website and also make some updates on my side project.
