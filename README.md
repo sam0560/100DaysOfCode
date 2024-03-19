@@ -390,3 +390,11 @@ The dark mode doesn't look bad at all
 <br><br>
 <b>Day 74-78/100</b><br>
 Having some terrible network experience over the week but it also has given me some time improve upon my portfolio website and also make some updates on my side project.
+
+<br><br>
+<b>Day 79/100</b><br>
+Modification of my portfolio website
+kaysam-dev.vercel.app
+
+![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/08e53d47-5c21-4f30-afca-8caa0d714bbf)
+
