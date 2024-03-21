@@ -398,3 +398,7 @@ kaysam-dev.vercel.app
 
 ![image](https://github.com/sam0560/100DaysOfCode/assets/64938042/08e53d47-5c21-4f30-afca-8caa0d714bbf)
 
+<br><br>
+<b>Day 80-81/100</b><br>
+Planning phase for university final year project. 
+Starting from user story to flow chart, Database planning, Tech stack seletion and UI designing. All on paper 📜
